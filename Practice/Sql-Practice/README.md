@@ -1,1 +1,0 @@
-# This is Sql Practice read me
